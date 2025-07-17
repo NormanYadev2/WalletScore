@@ -32,7 +32,7 @@ The purpose of this analysis is to understand the behavioral distribution of blo
 
 ##  Interpretation
 
-- The majority of wallet users are grouped in the **200–300** score range, suggesting a common pattern of behavior, possibly due to minimal activity which reflects risky, bot-like, or exploitative behavior.
+- The majority of wallet users are grouped in the **200–300** score range, suggesting a common pattern of behavior, possibly due to minimal activity which reflects kind of risky behaviour.
 - A secondary cluster at **500–600** likely represents more responsible users who show trustworthy patterns.
 - The **700–800** range includes wallets with excellent behavior—potentially eligible for higher trust scores or protocol benefits.
 - Sparse population in extreme ranges (very low or very high) may indicate **outliers** or **bot-like behavior**.
