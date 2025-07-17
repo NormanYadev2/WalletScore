@@ -7,7 +7,7 @@ This project assigns DeFi credit scores (100–900) to Aave V2 wallet addresses 
 
 ## 📖 Overview
 
-Aave users interact with DeFi protocols without credit scores or historical risk assessments. This project aims to solve that by analyzing wallet behavior and clustering users into groups based on their repayment, borrowing, and activity patterns—ultimately assigning a credit score between **100 and 900**.
+Aave users interact with DeFi protocols without credit scores or historical risk assessments. This project aims to solve that by analyzing wallet behavior and clustering users into groups based on their repayment, borrowing, and activity patterns—ultimately assigning a credit score between **0 and 1000**.
 
 ---
 
